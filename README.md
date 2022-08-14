@@ -13,10 +13,11 @@ Profitability review
 ## KPIs (Key Performance Indicators)
 
 
+
 Key indicators displaying a summary of Every year Expenditures and its relationship with different metrics.
- Impact of Capital Expenditure on states.
- Impact of Gross Fiscal Deficits on states.
- Influence of Nominal GDP Series on states.
- Influence of Own Tax Revenues on states.
- Influence of Revenue Deficits on states.
- Influence of Social Sector Expenditure on states.
+*  Impact of Capital Expenditure on states.
+*  Impact of Gross Fiscal Deficits on states.
+*  Influence of Nominal GDP Series on states.
+*  Influence of Own Tax Revenues on states.
+*  Influence of Revenue Deficits on states.
+*  Influence of Social Sector Expenditure on states.
