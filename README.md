@@ -5,10 +5,10 @@ To run government, it is important to manage expenses. It’s a way by which any
 ## Benefits
 
 
-To monitor government expenses.
-To dilute average expenses of various departments.
-To make decision for future Budget allotment.
-Profitability review
+* To monitor government expenses.
+* To dilute average expenses of various departments.
+* To make decision for future Budget allotment.
+* Profitability review
 
 ## KPIs (Key Performance Indicators)
 
